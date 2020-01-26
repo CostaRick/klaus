@@ -1258,6 +1258,88 @@ section.lazy-placeholder:after {
 .cid-rv3acOkXPn .mbr-text {
   color: #767676;
 }
+.cid-rOICz1mrs4 {
+  background-image: url("../../../assets/images/meeting4a.jpg");
+}
+.cid-rOICz1mrs4 .column-content {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+  width: 100%;
+  float: right;
+  position: relative;
+}
+.cid-rOICz1mrs4 .text-content .btn-bgr {
+  z-index: 0;
+}
+.cid-rOICz1mrs4 .mbr-overlay {
+  background: linear-gradient(#d6173f -10%, #00113e 75%);
+}
+.cid-rOICz1mrs4 .container-full-width {
+  position: relative;
+}
+.cid-rOICz1mrs4 .text-content {
+  width: 100%;
+  padding: 0 30px;
+  margin: 0 auto;
+}
+.cid-rOICz1mrs4 .layer {
+  display: none;
+  height: 101%;
+  position: absolute;
+  right: 49.9%;
+  top: 0;
+  bottom: 0;
+}
+.cid-rOICz1mrs4 .layer path {
+  fill: #ffffff;
+}
+@media (min-width: 576px) {
+  .cid-rOICz1mrs4 .text-content {
+    width: 540px;
+  }
+  .cid-rOICz1mrs4 .column-content {
+    width: 100%;
+  }
+  .cid-rOICz1mrs4 .layer {
+    display: none;
+  }
+}
+@media (min-width: 768px) {
+  .cid-rOICz1mrs4 .text-content {
+    width: 720px;
+  }
+}
+@media (min-width: 992px) {
+  .cid-rOICz1mrs4 .text-content {
+    width: 480px;
+    margin: 0;
+  }
+  .cid-rOICz1mrs4 .column-content {
+    width: 50%;
+  }
+  .cid-rOICz1mrs4 .layer {
+    display: block;
+  }
+}
+@media (min-width: 1200px) {
+  .cid-rOICz1mrs4 .text-content {
+    width: 570px;
+  }
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .cid-rOICz1mrs4 .container-full-width .layer {
+    right: 2.6rem;
+    height: 33rem;
+  }
+  .cid-rOICz1mrs4 .column-content {
+    height: 33rem;
+  }
+}
+.cid-rOICz1mrs4 .mbr-text,
+.cid-rOICz1mrs4 .mbr-section-btn {
+  color: #767676;
+}
 .cid-rv3akn3MA3 {
   padding-top: 45px;
   padding-bottom: 60px;
